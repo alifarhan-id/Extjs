@@ -1,0 +1,25 @@
+{
+  "name": "extjs",
+  "version": "1.0.0",
+  "description": "web desktop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alifarhan1230/Extjs.git"
+  },
+  "keywords": [
+    "extjs"
+  ],
+  "author": "af12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alifarhan1230/Extjs/issues"
+  },
+  "homepage": "https://github.com/alifarhan1230/Extjs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
